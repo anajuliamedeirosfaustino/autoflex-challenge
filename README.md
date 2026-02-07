@@ -27,7 +27,7 @@ Como executar o projeto
 
 Para executar o backend, acessar a pasta do projeto backend e executar o comando:
 
-mvn spring-boot:run ou ./mvn spring-boot:run ou 
+mvn spring-boot:run ou ./mvn spring-boot:run 
 
 A aplicação ficará disponível em http://localhost:8080
 .
