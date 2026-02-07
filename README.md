@@ -27,7 +27,7 @@ Como executar o projeto
 
 Para executar o backend, acessar a pasta do projeto backend e executar o comando:
 
-mvn spring-boot:run
+mvn spring-boot:run ou ./mvn spring-boot:run ou 
 
 A aplicação ficará disponível em http://localhost:8080
 .
@@ -56,7 +56,7 @@ Os testes unitários foram implementados utilizando JUnit 5 e Mockito. Os testes
 
 Os testes podem ser executados com o comando:
 
-mvn test
+mvn test ou ./mvn test
 
 Regra de negócio principal
 
